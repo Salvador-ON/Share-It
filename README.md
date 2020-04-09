@@ -2,7 +2,9 @@
 
 I developed this app for learning purpose. By Salvador Olvera 
 
-![](app/assets/images/vg.gif)
+![](media/shot-1.png)
+![](media/shot-2.png)
+![](media/shot-3.png)
 
 
 # What it does
