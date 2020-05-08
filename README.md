@@ -12,6 +12,13 @@ Ruby on Rails app. Where users can share his designs, like others design and com
 - Everyone can see all the post
 - When the user Sign-in or Sign-up can add a new post, including a picture and also they can comment or like the posts.
 
+# Future Features
+
+- Load a profile picture in the user account.
+
+- Mobile Design.
+
+- Private messages to communicate with other users.
 
 # How to run this project
 
