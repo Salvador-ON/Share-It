@@ -1,6 +1,6 @@
 # Share it 
 
-Ruby on Rails app. Where users can share his designs, The user can like and comment on the different posts.
+Ruby on Rails app. Where users can share his designs, like others design and comment on the different posts.
 
 ![](media/shot-1.png)
 ![](media/shot-2.png)
