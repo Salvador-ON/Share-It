@@ -1,6 +1,6 @@
-# Share it app
+# Share it 
 
-I developed this app for learning purpose. By Salvador Olvera 
+Ruby on Rails app. Where users can share his designs, The user can like and comment on the different posts.
 
 ![](media/shot-1.png)
 ![](media/shot-2.png)
@@ -9,21 +9,19 @@ I developed this app for learning purpose. By Salvador Olvera
 
 # What it does
 
-- Every one can see all the post
-- When the user Sign in or Sign up is able to add new post and comment or like the post
+- Everyone can see all the post
+- When the user Sign-in or Sign-up can add a new post, including a picture and also they can comment or like the posts.
 
 
 # How to run this project
 
-- Install ruby
-- Install ruby on rails
-- Install bundle
-- Run "bundle install" inside folder
-- Run "rails server" inside folder
+- Install ruby.
+- Install ruby on rails.
+- Install bundle.
+- Run "bundle install" inside folder.
+- Run "rails server" inside folder.
 - Go to http://127.0.0.1:3000/
 
-
-#### and deployed to GitHub
 
 ## Author
 
