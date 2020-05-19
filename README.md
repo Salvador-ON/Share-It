@@ -22,8 +22,8 @@ This is a Ruby on Rails app. Where users can share their designs, like other des
 
 # How to run this project
 
-- Install ruby.
-- Install ruby on rails.
+- Install Ruby.
+- Install Ruby on Rails.
 - Install bundle.
 - Run "bundle install" inside folder.
 - Run "rails server" inside folder.
